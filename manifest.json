@@ -1,6 +1,6 @@
 {
     "name": "Mess Menu",
-    "short_name": "Messit",
+    "short_name": "OurMess",
     "start_url": "/OurMess/",
     "display": "standalone",
     "background_color": "#ffffff",
