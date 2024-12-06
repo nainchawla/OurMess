@@ -1,4 +1,4 @@
-const CACHE_NAME = 'v3';
+const CACHE_NAME = 'v4';
 const urlsToCache = [
     '/',
     '/index.html',
@@ -7,7 +7,7 @@ const urlsToCache = [
     '/icon_192.png',
     '/icon_512.jpg',
     '/manifest.json',
-    '/messMenu.json'
+    '/menu.json'
 ];
 
 self.addEventListener('install', (event) => {
@@ -18,7 +18,7 @@ self.addEventListener('install', (event) => {
           '/index.html',
           '/manifest.json',
           '/service-worker.js',
-          '/messMenu.json',  // Cache the menu file
+          '/menu.json',  // Cache the menu file
           '/styles.css',
           '/script.js',
           '/icon_192.png',
@@ -30,7 +30,7 @@ self.addEventListener('install', (event) => {
   
 
 self.addEventListener('fetch', (event) => {
-    if (event.request.url.includes('messMenu.json')) {
+    if (event.request.url.includes('menu.json')) {
       event.respondWith(
         fetch(event.request)
           .then((networkResponse) => {
