@@ -2,74 +2,74 @@
     "veg": {
       "2024-12-01": {
         "breakfast": {
-          "menu": "",
+          "menu": "Poori, Potato masala Brown Bread, Chocos",
           "time": "7:30 AM - 9:30 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Dhal,White Rice, Rasam, Saina Appalam, Cucumber Raitha Veg : Chettinad Veg Biriyani ,Gobi 65 Sweet : Payasam",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Sweet corn chat",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Chapathi, Dhal Punjabi White Rice, Sambar, Rasam, Loose Curd Peas Pulao, Mixed Veg gravy Papaya",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-02": {
         "breakfast": {
-          "menu": "",
+          "menu": "Set Dosai, Vadacury, Chutney Pasta",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapathi, Toor Dhal White Rice, Knol Khol Sambar, Rasam Appalam, Butter milk Veg : Kadai mushroom",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Veg. Roll",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Chole Bhatura, Curd rice White Rice, Sambar, Rasam Bottle Guard Sabji Seasonal Fruit",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-03": {
         "breakfast": {
-          "menu": "",
+          "menu": "Paav Bhaji, Fry Chilly Idly, Sambar, Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapati, Palak green gram dal, Lemon Rice White Rice, Drumstick brinjal kara kuzlambu, Rasam Potato fry, Appalam, Cup Curd Sweet : Jangari",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Mysore Bonda Chutney",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Wheat Roti, Dhal, Jeera rice White Rice, Sambar, Rasam, Butter Milk Veg : Baby corn gravy Water Melon",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-04": {
         "breakfast": {
-          "menu": "",
+          "menu": "Poha Namkeen Pongal, Sambar, Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Dhal , Avaraikai Poriyal, Papad White Rice, Radish Sambar, Rasam, Cup Curd Veg : Palak Paneer - 04.12.2024 Paneer Fry - 18.12.2024",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Peanut Sundal",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Phulka, Dhal, Uthappam, Kerala kadala curry White Rice, Sambar, Rasam Knol Khol Poriyal, Loose Curd Mix Veg Soup, Banana",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-05": {
@@ -87,7 +87,7 @@
         },
         "dinner": {
           "menu": "Roti, Dhal, Brinjal fry, Garlic Sauce White Rice, Sambar, Rasam, Loose Curd Veg: Veg Chow Mein Seasonal Fruit",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-06": {
@@ -105,7 +105,7 @@
         },
         "dinner": {
           "menu": "Chapathi, Dhal, Urapadai, Chutney White rice, Sambar, Rasam, Butter Milk Veg : Tandoori Paneer Tikka Banana",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-07": {
@@ -123,7 +123,7 @@
         },
         "dinner": {
           "menu": "Wheat Parata, Veg Saina White Rice, Sambar, Rasam, Loose Curd Beans Carrot Poriyal Papaya",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-08": {
@@ -141,7 +141,7 @@
         },
         "dinner": {
           "menu": "Chapathi, Dhal, Idli, Sambar White Rice, Rasam, Loose Curd Peerkangai Poriyal Banana",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-09": {
@@ -159,7 +159,7 @@
         },
         "dinner": {
           "menu": "Roti, Rajma masala, Tomato Rice, Dhal White Rice, Rasam, Butter Milk Aloo jeera poriyal Water Melon",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-10": {
@@ -177,7 +177,7 @@
         },
         "dinner": {
           "menu": "Phulka, Mix Dhal, Plain Dosai, Kara Chutney White Rice, Sambar, Rasam, Loose Curd Cluster beans poriyal Seasonal Fruit",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-11": {
@@ -195,16 +195,16 @@
         },
         "dinner": {
           "menu": "Phulka, Dhal, Fried Rice White Rice, Sambar, Rasam, Loose Curd Veg : Gobi Manchurian Papaya",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-12": {
         "breakfast": {
-          "menu": "",
+          "menu": "Poha Namkeen, Onion Uthappam Sambar, Peanut Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Dhal tadka, Beet Root Poriyal White Rice, Keerai Sambar, Rasam, Cup Curd Green Gram Sprouts, Fryums",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
@@ -212,350 +212,350 @@
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Diamond Chapathi, Capsicum Paneer Masala White Rice, Sambar, Rasam Chow chow Kootu, Curd rice Seasonal Fruit",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-13": {
         "breakfast": {
-          "menu": "",
+          "menu": "Gobi Paratha, Curd, Pickle Kitchadi, Coconut Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Mixed Dhal, Coconut rice White Rice, Manathakkali Vathal Kuzhambu, Rasam Bitter gourd fry, Appalam, Cup Curd Sweet : Carrot halwa",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Kachori Tamarind Chutney",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Chapathi,Yellow Dhal, Sambar White Rice, Rasam, Loose Curd Veg : Chilli Paneer Banana",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-14": {
         "breakfast": {
-          "menu": "",
+          "menu": "Masala Dosai, Sambar, Chutney",
           "time": "7:30 AM - 9:30 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapathi, Green gram Dhal, Pudina Rice White Rice,Avarakkai sambar, Rasam, Cup Curd Bhindi fry, Fryums",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "French Fries",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Methi Chapathi, Channa masala White Rice, Sambar, Rasam, Loose Curd Kovaikai Poriyal Seasonal Fruit, Ice cream",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-15": {
         "breakfast": {
-          "menu": "",
+          "menu": "Poori, Potato masala Brown Bread, Chocos",
           "time": "7:30 AM - 9:30 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Dhal,White Rice, Rasam, Salna Appalam, Cucumber Raitha Veg : Chettinad Veg Biriyani ,Gobi 65 Sweet : Payasam",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Sweet corn chat",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Chapathi, Dhal Punjabi White Rice, Sambar, Rasam, Loose Curd Peas Pulao, Mixed Veg gravy Papaya",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-16": {
         "breakfast": {
-          "menu": "",
+          "menu": "Set Dosai, Vadacury, Chutney Pasta",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapathi, Toor Dhal White Rice, Knol Khol Sambar, Rasam Appalam, Butter milk Veg : Kadai mushroom",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Veg. Roll",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Chole Bhatura, Curd rice White Rice, Sambar, Rasam Bottle Guard Sabji Seasonal Fruit",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-17": {
         "breakfast": {
-          "menu": "",
+          "menu": "Paav Bhaji, Fry Chilly Idly, Sambar, Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapati, Palak green gram dal, Lemon Rice White Rice, Drumstick brinjal kara kuzlambu, Rasam Potato fry, Appalam, Cup Curd Sweet : Jangari",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Mysore Bonda Chutney",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Wheat Roti, Dhal, Jeera rice White Rice, Sambar, Rasam, Butter Milk Veg : Baby corn gravy Water Melon",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-18": {
         "breakfast": {
-          "menu": "",
+          "menu": "Poha Namkeen Pongal, Sambar, Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Dhal , Avaraikai Poriyal, Papad White Rice, Radish Sambar, Rasam, Cup Curd Veg : Palak Paneer - 04.12.2024 Paneer Fry",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Peanut Sundal",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Phulka, Dhal, Uthappam, Kerala kadala curry White Rice, Sambar, Rasam Knol Khol Poriyal, Loose Curd Mix Veg Soup, Banana",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-19": {
         "breakfast": {
-          "menu": "",
+          "menu": "Idly, Sambar, Chutney, Vadai",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapati, Dhal Makhani, Veg Pulav White Rice, Moochai Kara Kulambu Rasam,Cup Curd, Keerai Kuttu, Fryums",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Onion Pakoda",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Roti, Dhal, Brinjal fry, Garlic Sauce White Rice, Sambar, Rasam, Loose Curd Veg: Veg Chow Mein Seasonal Fruit",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-20": {
         "breakfast": {
-          "menu": "",
+          "menu": "Mixed Veg Paratha, Curd Rava kitchadi, Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Dhal, Tamarind Rice White Rice, Bottlegourd Sambar, Rasam, Cup Curd Sepan Kihangu Fry, Papad Sweet : Laddu",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Dahi Papdi Chat",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Chapathi, Dhal, Urapadai, Chutney White rice, Sambar, Rasam, Butter Milk Veg : Tandoori Paneer Tikka Banana",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-21": {
         "breakfast": {
-          "menu": "",
+          "menu": "Podi Dosai, Sambar Red chilli Chutney",
           "time": "7:30 AM - 9:30 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapathi, Masoor Dhal, Veg Kofta Gravy White Rice,Vendakkai Kara Kulambu, Rasam, Cup Curd Snakegourd Sabji, Appalam",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Veg Puff",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Wheat Parata, Veg Saina White Rice, Sambar, Rasam, Loose Curd Beans Carrot Poriyal Papaya",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-22": {
         "breakfast": {
-          "menu": "",
+          "menu": "Methi poori, Channa Masala Brown Bread",
           "time": "7:30 AM - 9:30 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Dhal Fry White Rice, Brinjal Gravy, Rasam Fryums, Onion Raitha Veg : Vegetable Dum Biriyani , Gobi 65 Sweet : Kheer",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Aloo Samosa",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Chapathi, Dhal, Idli, Sambar White Rice, Rasam, Loose Curd Peerkangai Poriyal Banana",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-23": {
         "breakfast": {
-          "menu": "",
+          "menu": "Mooli Paratha, Curd Varmicilli upma, Coconut Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Urad Dhal White Rice, Chow chow Sambar, Rasam Cabbage Poriyal, Cup Curd, Papad Veg : Paneer Butter Masala",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Raw banana bajji Chutney",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Roti, Rajma masala, Tomato Rice, Dhal White Rice, Rasam, Butter Milk Aloo jeera poriyal Water Melon",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-24": {
         "breakfast": {
-          "menu": "",
+          "menu": "Vada Pav, Mint Chutney Podi Idly, Sambar, Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapathi, Veg Dahi Vala, Bisibela Bath, White Rice, Rasam, Cup Curd Potato Chips, Carrot Poriyal Sweet : Gulab Jamun",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Masala Poori",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Phulka, Mix Dhal, Plain Dosai, Kara Chutney White Rice, Sambar, Rasam, Loose Curd Cluster beans poriyal Seasonal Fruit",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-25": {
         "breakfast": {
-          "menu": "",
+          "menu": "Pongal, Sambar, Chutney, Vadai Pasta, Corn Flakes",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Roti, Dhal Makani White Rice, White pumpkin Moore kulambu, Rasam, Cup Curd Raw Banana Fry, Papad",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Cake",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Phulka, Dhal, Fried Rice White Rice, Sambar, Rasam, Loose Curd Veg : Gobi Manchurian Papaya",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-26": {
         "breakfast": {
-          "menu": "",
+          "menu": "Poha Namkeen, Onion Uthappam Sambar, Peanut Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Dhal tadka, Beet Root Poriyal White Rice, Keerai Sambar, Rasam, Cup Curd Green Gram Sprouts, Fryums",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Veg Cutlet (2 Nos)",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Diamond Chapathi, Capsicum Paneer Masala White Rice, Sambar, Rasam Chow chow Kootu, Curd rice Seasonal Fruit",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-27": {
         "breakfast": {
-          "menu": "",
+          "menu": "Gobi Paratha, Curd, Pickle Kitchadi, Coconut Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Mixed Dhal, Coconut rice White Rice, Manathakkali Vathal Kuzhambu, Rasam Bitter gourd fry, Appalam, Cup Curd Sweet : Carrot halwa",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Kachori Tamarind Chutney",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Chapathi,Yellow Dhal, Sambar White Rice, Rasam, Loose Curd Veg : Chilli Paneer Banana",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-28": {
         "breakfast": {
-          "menu": "",
+          "menu": "Masala Dosai, Sambar, Chutney",
           "time": "7:30 AM - 9:30 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapathi, Green gram Dhal, Pudina Rice White Rice,Avarakkai sambar, Rasam, Cup Curd Bhindi fry, Fryums",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "French Fries",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Methi Chapathi, Channa masala White Rice, Sambar, Rasam, Loose Curd Kovaikai Poriyal Seasonal Fruit, Ice cream",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-29": {
         "breakfast": {
-          "menu": "",
+          "menu": "Poori, Potato masala Brown Bread, Chocos",
           "time": "7:30 AM - 9:30 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Phulka, Dhal,White Rice, Rasam, Salna Appalam, Cucumber Raitha Veg : Chettinad Veg Biriyani ,Gobi 65 Sweet : Payasam",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Sweet corn chat",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Chapathi, Dhal Punjabi White Rice, Sambar, Rasam, Loose Curd Peas Pulao, Mixed Veg gravy Papaya",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-30": {
         "breakfast": {
-          "menu": "",
+          "menu": "Set Dosai, Vadacury, Chutney Pasta",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapathi, Toor Dhal White Rice, Knol Khol Sambar, Rasam Appalam, Butter milk Veg : Kadai mushroom",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Veg. Roll",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Chole Bhatura, Curd rice White Rice, Sambar, Rasam Bottle Guard Sabji Seasonal Fruit",
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-31": {
         "breakfast": {
-          "menu": "",
+          "menu": "Paav Bhaji, Fry Chilly Idly, Sambar, Chutney",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Chapati, Palak green gram dal, Lemon Rice White Rice, Drumstick brinjal kara kuzlambu, Rasam Potato fry, Appalam, Cup Curd Sweet : Jangari",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Mysore Bonda Chutney",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "menu": "Wheat Roti, Dhal, Jeera rice White Rice, Sambar, Rasam, Butter Milk Veg : Baby corn gravy Water Melon",
+          "time": "7:00 PM - 9:00 PM"
         }
       }
     },
@@ -575,7 +575,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-02": {
@@ -593,7 +593,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-03": {
@@ -611,7 +611,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-04": {
@@ -629,7 +629,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-05": {
@@ -647,7 +647,7 @@
         },
         "dinner": {
           "menu": "Roti, Dhal, Brinjal fry, Garlic Sauce White Rice, Sambar, Rasam, Loose Curd Veg: Veg Chow Mein Non Veg : Egg Chow Mein Cream of Veg Soup, Seasonal Fruit",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-06": {
@@ -665,7 +665,7 @@
         },
         "dinner": {
           "menu": "Chapathi, Dhal, Urapadai, Chutney White rice, Sambar, Rasam, Butter Milk Veg : Tandoori Paneer Tikka Non Veg : Tandoori Chicken Palak Soup, Banana",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-07": {
@@ -683,7 +683,7 @@
         },
         "dinner": {
           "menu": "Wheat Parata, Veg Salna White Rice, Sambar, Rasam, Loose Curd Beans Carrot Poriyal Veg Manchow Soup, Papaya",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-08": {
@@ -701,7 +701,7 @@
         },
         "dinner": {
           "menu": "Chapathi, Dhal, Idli, Sambar White Rice, Rasam, Loose Curd Peerkangai Poriyal Carrot Ginger Soup, Banana",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-09": {
@@ -719,7 +719,7 @@
         },
         "dinner": {
           "menu": "Roti, Rajma masala, Tomato Rice, Dhal White Rice, Rasam, Butter Milk Aloo jeera poriyal Sweet Corn Soup, Water Melon",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-10": {
@@ -737,7 +737,7 @@
         },
         "dinner": {
           "menu": "Phulka, Mix Dhal, Plain Dosai, Kara Chutney White Rice, Sambar, Rasam, Loose Curd Cluster beans poriyal Spring onion Soup, Seasonal Fruit",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-11": {
@@ -755,7 +755,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-12": {
@@ -773,7 +773,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-13": {
@@ -791,7 +791,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-14": {
@@ -809,7 +809,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-15": {
@@ -827,7 +827,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-16": {
@@ -845,7 +845,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-17": {
@@ -863,7 +863,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-18": {
@@ -881,7 +881,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-19": {
@@ -899,7 +899,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-20": {
@@ -917,7 +917,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-21": {
@@ -935,7 +935,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-22": {
@@ -953,7 +953,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-23": {
@@ -971,7 +971,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-24": {
@@ -989,7 +989,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-25": {
@@ -1007,7 +1007,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-26": {
@@ -1025,7 +1025,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-27": {
@@ -1043,7 +1043,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-28": {
@@ -1061,7 +1061,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-29": {
@@ -1079,7 +1079,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-30": {
@@ -1097,7 +1097,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-31": {
@@ -1115,7 +1115,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       }
     },
@@ -1135,7 +1135,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-02": {
@@ -1153,7 +1153,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-03": {
@@ -1171,7 +1171,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-04": {
@@ -1189,7 +1189,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-05": {
@@ -1207,7 +1207,7 @@
         },
         "dinner": {
           "menu": "Roti, Dhal, Brinjal fry, Garlic Sauce White Rice, Sambar, Rasam, Loose Curd Non Veg : Egg Chow Mein Seasonal Fruit",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-06": {
@@ -1225,7 +1225,7 @@
         },
         "dinner": {
           "menu": "Chapathi, Dhal, Urapadai, Chutney White rice, Sambar, Rasam, Butter Milk Non Veg : Tandoori Chicken Banana",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-07": {
@@ -1243,7 +1243,7 @@
         },
         "dinner": {
           "menu": "Wheat Parata, Veg Saina White Rice, Sambar, Rasam, Loose Curd Beans Carrot Poriyal Papaya",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-08": {
@@ -1261,7 +1261,7 @@
         },
         "dinner": {
           "menu": "Chapathi, Dhal, Idli, Sambar White Rice, Rasam, Loose Curd Peerkangai Poriyal Banana",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-09": {
@@ -1279,7 +1279,7 @@
         },
         "dinner": {
           "menu": "Roti, Rajma masala, Tomato Rice, Dhal White Rice, Rasam, Butter Milk Aloo jeera poriyal Water Melon",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-10": {
@@ -1297,7 +1297,7 @@
         },
         "dinner": {
           "menu": "Phulka, Mix Dhal , Plain Dosai, Kara Chutney White Rice, Sambar, Rasam, Loose Curd Cluster beans poriyal Seasonal Fruit",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-11": {
@@ -1315,7 +1315,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-12": {
@@ -1333,7 +1333,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-13": {
@@ -1351,7 +1351,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-14": {
@@ -1369,7 +1369,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-15": {
@@ -1387,7 +1387,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-16": {
@@ -1405,7 +1405,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-17": {
@@ -1423,7 +1423,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-18": {
@@ -1441,7 +1441,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-19": {
@@ -1459,7 +1459,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-20": {
@@ -1477,7 +1477,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-21": {
@@ -1495,7 +1495,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-22": {
@@ -1513,7 +1513,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-23": {
@@ -1531,7 +1531,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-24": {
@@ -1549,7 +1549,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-25": {
@@ -1567,7 +1567,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-26": {
@@ -1585,7 +1585,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-27": {
@@ -1603,7 +1603,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-28": {
@@ -1621,7 +1621,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-29": {
@@ -1639,7 +1639,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-30": {
@@ -1657,7 +1657,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       },
       "2024-12-31": {
@@ -1675,7 +1675,7 @@
         },
         "dinner": {
           "menu": "",
-          "time": "7:30 PM - 9:00 PM"
+          "time": "7:00 PM - 9:00 PM"
         }
       }
     }
