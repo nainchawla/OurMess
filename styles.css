@@ -1,147 +1,193 @@
 body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background-color: #0c0f1f;
-    color: white;
-  }
-  
-  .container {
-    max-width: 600px;
-    margin: auto;
-    padding: 20px;
-  }
-  
-  .header {
-    display: flex;
-    justify-content: space-evenly;
-    margin-bottom: 20px;
-  }
-  
-  .toggle {
-    padding: 10px 20px;
-    font-size: 16px;
-    border: none;
-    border-radius: 20px;
-    cursor: pointer;
-    background-color: #1a1a2e;
-    color: white;
-  }
-  
-  .toggle.active {
-    background-color: green;
-  }
-  
-  .date-section {
-    text-align: center;
-    margin-bottom: 20px;
-  }
-  
-  .date-section h3 {
-    margin: 5px;
-  }
-  
-  .date-section h2 {
-    margin: 5px;
-    font-size: 24px;
-  }
-  
-  .nav-buttons {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 10px;
-  }
-  
-  .nav-buttons button {
-    padding: 5px 10px;
-    border: none;
-    background-color: #1a1a2e;
-    color: white;
-    border-radius: 10px;
-    cursor: pointer;
-  }
-  
-  .menu {
-    background-color: #1a1a2e;
-    border-radius: 10px;
-    padding: 15px;
-  }
-  
-  .menu h4 {
-    margin: 10px 0;
-    font-size: 16px;
-  }
-  
-  .menu .meal {
-    background-color: #2a2d40;
-    padding: 10px;
-    border-radius: 10px;
-    margin-bottom: 15px;
-  }
-  
-  .meal h5 {
-    margin: 5px 0;
-  }
-  
-  .meal span {
-    font-size: 14px;
-    color: #ccc;
-  }
-  .date-label {
-    font-size: 1.2em;
-    font-weight: bold;
-    color: #ffffff; /* Green for emphasis */
-    text-align: center;
-    margin-bottom: 5px;
-  }
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #1a0f14; /* Very dark pinkish-maroon */
+  color: #e8d7de; /* Light pinkish-white for contrast */
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}
+
+.toggle {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: #2b1a22; /* Dark muted pink */
+  color: #e8d7de; /* Light pinkish-white */
+}
+
+.toggle.active {
+  background-color: #6aaf6f; /* Subtle vibrant pink for active states */
+}
+
+.date-section {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.date-section h3 {
+  margin: 5px;
+  color: #e8d7de; /* Light pinkish-white */
+}
+
+.date-section h2 {
+  margin: 5px;
+  font-size: 24px;
+  color: #d88ba7; /* Muted pink for emphasis */
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.nav-buttons button {
+  padding: 5px 10px;
+  border: none;
+  background-color: #2b1a22; /* Dark muted pink */
+  color: #e8d7de; /* Light pinkish-white */
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.menu {
+  background-color: #23151b; /* Dark maroonish background for menu */
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.menu h4 {
+  margin: 10px 0;
+  font-size: 16px;
+  color: #e8d7de; /* Light pinkish-white */
+}
+
+.menu .meal {
+  background-color: #3a212b; /* Deep maroon with a hint of pink */
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.meal h5 {
+  margin: 5px 0;
+  color: #d88ba7; /* Muted pink for headings */
+}
+
+.meal span {
+  font-size: 14px;
+  color: #c07a8f; /* Subtle pink for subtext */
+}
+
+.date-label {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #d88ba7; /* Muted pink for emphasis */
+  text-align: center;
+  margin-bottom: 5px;
+}
+
 /* Style for the slider container */
 .mess-slider {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background-color: #333;
-    border-radius: 25px;
-    padding: 5px;
-    width: 80%;
-    margin: 0 auto 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-  }
-  
-  /* Individual toggle buttons */
-  .mess-slider .toggle {
-    flex: 1;
-    padding: 10px 15px;
-    text-align: center;
-    border: none;
-    border-radius: 25px;
-    font-size: 1em;
-    font-weight: bold;
-    cursor: pointer;
-    transition: background-color 0.3s ease, color 0.3s ease;
-  }
-  
-  /* Active button styles */
-  .mess-slider .toggle.active {
-    color: white;
-  }
-  
-  /* Color theming for each mess type */
-  #veg.active {
-    background-color: green;
-  }
-  
-  #special.active {
-    background-color: blue;
-  }
-  
-  #nonveg.active {
-    background-color: red;
-  }
-  
-  /* Default inactive button styles */
-  .mess-slider .toggle:not(.active) {
-    background-color: transparent;
-    color: white;
-    opacity: 0.7;
-  }
-    
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #2b1a22; /* Dark muted pink */
+  border-radius: 25px;
+  padding: 5px;
+  width: 80%;
+  margin: 0 auto 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Individual toggle buttons */
+.mess-slider .toggle {
+  flex: 1;
+  padding: 10px 15px;
+  text-align: center;
+  border: none;
+  border-radius: 25px;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Active button styles */
+.mess-slider .toggle.active {
+  color: #e8d7de; /* Light pinkish-white */
+}
+
+/* Color theming for each mess type */
+#veg.active {
+  background-color: #a0546d; /* Subtle vibrant pink */
+}
+
+#special.active {
+  background-color: #814256; /* Slightly darker pinkish-red */
+}
+
+#nonveg.active {
+  background-color: #5c2d3a; /* Deep maroon */
+}
+
+/* Default inactive button styles */
+.mess-slider .toggle:not(.active) {
+  background-color: transparent;
+  color: #e8d7de; /* Light pinkish-white */
+  opacity: 0.7;
+}
+
+#veg.active {
+  background-color: #6aaf6f;
+}
+
+#special.active {
+  background-color: #6a89b8;
+}
+
+#nonveg.active {
+  background-color: #b05766;
+}
+.footer {
+  background-color: #2d0a24; /* Slightly darker pink to separate it from the main content */
+  color: #f1c0d8; /* Light pink text for contrast */
+  text-align: center;
+  padding: 2px 2px;
+  margin-top: 2px;
+  font-size: 0.8em;
+  border-top: 1px solid #6a3760; /* Subtle border for separation */
+}
+
+.footer a {
+  color: #ff99c8; /* Bright pink for links */
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer a:hover {
+  color: #e17ca4; /* Slightly darker pink on hover */
+}
+
+.contact-info {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+.contact-info li {
+  margin: 5px 0;
+}
