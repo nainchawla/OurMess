@@ -182,19 +182,19 @@
       },
       "2024-12-11": {
         "breakfast": {
-          "menu": "",
+          "menu": "Pongal, Sambar, Chutney, Vadai Pasta, Corn Flakes",
           "time": "7:00 AM - 9:00 AM"
         },
         "lunch": {
-          "menu": "",
+          "menu": "Roti, Dhal Makani White Rice, White pumpkin Moore kulambu, Rasam, Cup Curd Raw Banana Fry, Papad",
           "time": "12:30 PM - 2:30 PM"
         },
         "snacks": {
-          "menu": "",
+          "menu": "Cake",
           "time": "4:30 PM - 6:00 PM"
         },
         "dinner": {
-          "menu": "",
+          "menu": "Phulka, Dhal, Fried Rice White Rice, Sambar, Rasam, Loose Curd Veg : Gobi Manchurian Papaya",
           "time": "7:30 PM - 9:00 PM"
         }
       },
