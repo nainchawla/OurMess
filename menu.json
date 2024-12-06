@@ -1,0 +1,1683 @@
+{
+    "veg": {
+      "2024-12-01": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-02": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-03": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-04": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-05": {
+        "breakfast": {
+          "menu": "Idly, Sambar, Chutney, Vadai",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Chapati, Dhal Makhani, Veg Pulav White Rice, Moochai Kara Kulambu Rasam,Cup Curd, Keerai Kuttu, Fryums",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Onion Pakoda",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Roti, Dhal, Brinjal fry, Garlic Sauce White Rice, Sambar, Rasam, Loose Curd Veg: Veg Chow Mein Seasonal Fruit",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-06": {
+        "breakfast": {
+          "menu": "Mixed Veg Paratha, Curd Rava kitchadi, Chutney",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Phulka, Dhal, Tamarind Rice White Rice, Bottlegourd Sambar, Rasam, Cup Curd Sepan Kihangu Fry, Papad Sweet : Laddu",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Dahi Papdi Chat",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Chapathi, Dhal, Urapadai, Chutney White rice, Sambar, Rasam, Butter Milk Veg : Tandoori Paneer Tikka Banana",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-07": {
+        "breakfast": {
+          "menu": "Podi Dosai, Sambar Red chilli Chutney",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "Chapathi, Masoor Dhal, Veg Kofta Gravy White Rice,Vendakkai Kara Kulambu, Rasam, Cup Curd Snakegourd Sabji, Appalam",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Veg Puff",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Wheat Parata, Veg Saina White Rice, Sambar, Rasam, Loose Curd Beans Carrot Poriyal Papaya",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-08": {
+        "breakfast": {
+          "menu": "Methi poori, Channa Masala Brown Bread",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "Phulka, Dhal Fry White Rice, Brinjal Gravy, Rasam Fryums, Onion Raitha Veg : Vegetable Dum Biriyani , Gobi 65 Sweet : Kheer",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Aloo Samosa",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Chapathi, Dhal, Idli, Sambar White Rice, Rasam, Loose Curd Peerkangai Poriyal Banana",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-09": {
+        "breakfast": {
+          "menu": "Mooli Paratha, Curd Varmicilli upma, Coconut Chutney",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Phulka, Urad Dhal White Rice, Chow chow Sambar, Rasam Cabbage Poriyal, Cup Curd, Papad Veg : Paneer Butter Masala",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Raw banana bajji Chutney",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Roti, Rajma masala, Tomato Rice, Dhal White Rice, Rasam, Butter Milk Aloo jeera poriyal Water Melon",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-10": {
+        "breakfast": {
+          "menu": "Vada Pav, Mint Chutney Podi Idly, Sambar, Chutney",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Chapathi, Veg Dahi Vala, Bisibela Bath, White Rice, Rasam, Cup Curd Potato Chips, Carrot Poriyal Sweet : Gulab Jamun",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Masala Poori",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Phulka, Mix Dhal, Plain Dosai, Kara Chutney White Rice, Sambar, Rasam, Loose Curd Cluster beans poriyal Seasonal Fruit",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-11": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-12": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-13": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-14": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-15": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-16": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-17": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-18": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-19": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-20": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-21": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-22": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-23": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-24": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-25": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-26": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-27": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-28": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-29": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-30": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-31": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      }
+    },
+    "special": {
+      "2024-12-01": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-02": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-03": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-04": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-05": {
+        "breakfast": {
+          "menu": "Idly, Sambar, Chutney, Vadai Veg : Sprouted Moong Dhal Non Veg • Masala Omlette Water Melon Juice, Chocos",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Chapati, Dhal Makhani, Veg Pulav White Rice, Moochai Kara Kulambu Rasam, Cup Curd, Keerai Kuttu, Fryums Sweet: Milk Peda",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Onion Pakoda",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Roti, Dhal, Brinjal fry, Garlic Sauce White Rice, Sambar, Rasam, Loose Curd Veg: Veg Chow Mein Non Veg : Egg Chow Mein Cream of Veg Soup, Seasonal Fruit",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-06": {
+        "breakfast": {
+          "menu": "Mixed Veg Paratha, Curd Rava kitchadi, Chutney Veg : Peanut Sundal Non Veg : French toast Sapota Juice",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Phulka, Dhal, Tamarind Rice White Rice, Bottlegourd Sambar, Rasam, Cup Curd Sepan Kihangu Fry, Papad Sweet : Laddu",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Dahi Papdi Chat",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Chapathi, Dhal, Urapadai, Chutney White rice, Sambar, Rasam, Butter Milk Veg : Tandoori Paneer Tikka Non Veg : Tandoori Chicken Palak Soup, Banana",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-07": {
+        "breakfast": {
+          "menu": "Podi Dosai, Sambar Red chilli Chutney Veg : Moochai Payaru Sundal Non Veg : Boiled Egg Masala Mixed Fruit Juice, Chocos",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "Chapathi, Masoor Dhal, Veg Kofta Gravy White Rice,Vendakkai Kara Kulambu, Rasam, Cup Curd Snakegourd Sabji, Appalam Sweet : Shahi Tukra",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Veg Puff",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Wheat Parata, Veg Salna White Rice, Sambar, Rasam, Loose Curd Beans Carrot Poriyal Veg Manchow Soup, Papaya",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-08": {
+        "breakfast": {
+          "menu": "Methi poori, Channa Masala Brown Bread Veg : Green Gram Sprouts Non Veg : Omlette Apple Juice",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "Phulka, Dhal Fry, White Rice, Brinjal Gravy, Rasam Fryums, Onion Raitha Veg : Vegetable Dum Biriyani , Gobi 65 Non Veg : Chicken Dum Biriyani Sweet : Kheer",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Aloo Samosa",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Chapathi, Dhal, Idli, Sambar White Rice, Rasam, Loose Curd Peerkangai Poriyal Carrot Ginger Soup, Banana",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-09": {
+        "breakfast": {
+          "menu": "Mooli Paratha, Curd Varmicilli upma, Coconut Chutney Veg : Vegetable Salad Non Veg : Boiled Egg Musk Melon Juice",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Phulka,Urad Dhal, Papad, Rasam, Cup Curd White Rice, Chow chow Sambar, Cabbage Poriyal Veg : Paneer Butter Masala Non Veg : Chicken Butter Masala Sweet : Jilebi",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Raw banana bajji Chutney",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Roti, Rajma masala, Tomato Rice, Dhal White Rice, Rasam, Butter Milk Aloo jeera poriyal Sweet Corn Soup, Water Melon",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-10": {
+        "breakfast": {
+          "menu": "Vada Pav, Mint Chutney Podi Idly, Sambar, Chutney Veg : Mixed Sprouts Sundal Non Veg : Scrambled Egg Mint Lemon, Chocos",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Chapathi, Veg Dahi Vala Bisibela Bath, White Rice, Rasam, Cup Curd Potato Chips, Carrot Poriyal Sweet : Gulab Jamun",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Masala Poori",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Phulka, Mix Dhal, Plain Dosai, Kara Chutney White Rice, Sambar, Rasam, Loose Curd Cluster beans poriyal Spring onion Soup, Seasonal Fruit",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-11": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-12": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-13": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-14": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-15": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-16": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-17": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-18": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-19": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-20": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-21": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-22": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-23": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-24": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-25": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-26": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-27": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-28": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-29": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-30": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-31": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      }
+    },
+    "nonveg": {
+      "2024-12-01": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-02": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-03": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-04": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-05": {
+        "breakfast": {
+          "menu": "Idly, Sambar, Chutney, Vadai Non Veg : Masala Omlette",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Chapati, Dhal Makhani, Veg Pulav White Rice, Moochai Kara Kulambu Rasam,Cup Curd, Keerai Kuttu, Fryums",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Onion Pakoda",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Roti, Dhal, Brinjal fry, Garlic Sauce White Rice, Sambar, Rasam, Loose Curd Non Veg : Egg Chow Mein Seasonal Fruit",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-06": {
+        "breakfast": {
+          "menu": "Mixed Veg Paratha, Curd Rava kitchadi, Chutney Non Veg : French toast",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Phulka, Dhal, Tamarind Rice White Rice, Bottlegourd Sambar, Rasam, Cup Curd Sepan Kihangu Fry, Papad Sweet : Laddu",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Dahi Papdi Chat",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Chapathi, Dhal, Urapadai, Chutney White rice, Sambar, Rasam, Butter Milk Non Veg : Tandoori Chicken Banana",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-07": {
+        "breakfast": {
+          "menu": "Podi Dosai, Sambar Red chilli Chutney Non Veg : Boiled Egg Masala",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "Chapathi, Masoor Dhal, Veg Kofta Gravy White Rice,Vendakkai Kara Kulambu, Rasam, Cup Curd Snakegourd Sabji, Appalam",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Veg Puff",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Wheat Parata, Veg Saina White Rice, Sambar, Rasam, Loose Curd Beans Carrot Poriyal Papaya",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-08": {
+        "breakfast": {
+          "menu": "Methi poori, Channa Masala Brown Bread Non Veg : Omlette",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "Phulka, Dhal Fry White Rice, Brinjal Gravy, Rasam Fryums, Onion Raitha Non Veg : Chicken Dum Biriyani Sweet : Kheer",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Aloo Samosa",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Chapathi, Dhal, Idli, Sambar White Rice, Rasam, Loose Curd Peerkangai Poriyal Banana",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-09": {
+        "breakfast": {
+          "menu": "Mooli Paratha, Curd Varmicilli upma, Coconut Chutney Non Veg • Boiled Egg",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Phulka, Urad Dhal White Rice, Chow Chow Sambar, Rasam Cabbage Poriyal, Cup Curd, Papad Non Veg : Chicken Butter Masala",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Raw banana bajji Chutney",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Roti, Rajma masala, Tomato Rice, Dhal White Rice, Rasam, Butter Milk Aloo jeera poriyal Water Melon",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-10": {
+        "breakfast": {
+          "menu": "Vada Pav, Mint Chutney Podi Idly, Sambar, Chutney Non Veg : Scrambled Egg",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "Chapathi, Veg Dahi Vala Bisibela Bath, White Rice, Rasam, Cup Curd Potato Chips, Carrot Poriyal Sweet : Gulab Jamun",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "Masala Poori",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "Phulka, Mix Dhal , Plain Dosai, Kara Chutney White Rice, Sambar, Rasam, Loose Curd Cluster beans poriyal Seasonal Fruit",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-11": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-12": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-13": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-14": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-15": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-16": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-17": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-18": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-19": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-20": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-21": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-22": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-23": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-24": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-25": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-26": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-27": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-28": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-29": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-30": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      },
+      "2024-12-31": {
+        "breakfast": {
+          "menu": "",
+          "time": "7:00 AM - 9:00 AM"
+        },
+        "lunch": {
+          "menu": "",
+          "time": "12:30 PM - 2:30 PM"
+        },
+        "snacks": {
+          "menu": "",
+          "time": "4:30 PM - 6:00 PM"
+        },
+        "dinner": {
+          "menu": "",
+          "time": "7:30 PM - 9:00 PM"
+        }
+      }
+    }
+  }
+  

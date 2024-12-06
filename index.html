@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mess Menu</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="manifest" href="manifest.json">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div class="container">
+    <div class="mess-slider">
+        <button id="veg" class="toggle active">Veg</button>
+        <button id="special" class="toggle">Special</button>
+        <button id="nonveg" class="toggle">Non-Veg</button>
+      </div>
+      
+      
+    <div class="date-section">
+      
+        <div class="date-label"></div> <!-- Label for Today, Yesterday, or Tomorrow -->
+        <h2 id="date"></h2>
+      <div class="nav-buttons">
+        <button id="prev"><< Previous Day</button>
+        <button id="next">Next Day >></button>
+      </div>
+    </div>
+    <div class="menu">
+      <!-- Menu details will be dynamically inserted here -->
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
