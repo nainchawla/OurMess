@@ -3,8 +3,8 @@
     "short_name": "OurMess",
     "start_url": "/OurMess/",
     "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#3b82f6",
+    "background_color": "#2d0a24",
+    "theme_color": "#2d0a24",
     "icons": [
         {
             "src": "icon_192.png",
